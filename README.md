@@ -1,2 +1,2 @@
 # cTrader
-Indicaors for cTrader platform
+Indicators for cTrader platform
